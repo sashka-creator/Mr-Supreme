@@ -648,16 +648,15 @@ button:hover {
 
     .intro__img {
         width: 320px;
-        height: 344px;
-
-        background: url(../img/intro-adaptive-1.png);
+        height: 354px;
+        margin-bottom: 30px;
+        background-size: cover;
     }
 
     .intro__blur {
-        width: 272px;
-        height: 165px;
-        margin-top: -241px;
-        margin-top: -226px;
+        width: 200px;
+        height: 133px;
+        margin-top: -268px;
         filter: blur(88px);
     }
 
